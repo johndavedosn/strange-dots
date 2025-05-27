@@ -1,0 +1,3 @@
+[submodule "figvim"]
+	path = figvim
+	url = https://github.com/johndavedosn/figvim
