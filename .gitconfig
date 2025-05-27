@@ -1,0 +1,7 @@
+[user]
+	email = moumenisbest@gmail.com
+	name = Ali moumen
+[credential]
+	helper = manager-core
+[init]
+	defaultBranch = main
