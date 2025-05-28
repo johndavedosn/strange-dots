@@ -1,5 +1,8 @@
 {
+  "devDependencies": {
+    "hugo-extended": "^0.121.2"
+  },
   "scripts": {
-    "build": "hugo"
+    "vercel-build": "hugo"
   }
 }
