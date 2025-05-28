@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Ali Moumen</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Ali Moumen</description>
+    <generator>Hugo -- 0.147.6</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 05 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Codepocalypse.</title>
+      <link>http://localhost:1313/posts/the-codepocalypse/</link>
+      <pubDate>Sat, 05 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/the-codepocalypse/</guid>
+      <description>&lt;p&gt;I&amp;quot;ve been striving in the programming world for more than 5 years now and &lt;!-- raw HTML omitted --&gt; I have spent 3 of these years before the existence of a lot of AI tools &lt;!-- raw HTML omitted --&gt; that modern programmers - or shall I say &amp;ldquo;Vibe coders&amp;rdquo; - rely on.
+&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;
+ChatGPT,  Claude,  Perplexity (the only good AI) and a lot of the many tools &lt;!-- raw HTML omitted --&gt; that has only appeared recently were merely a luxury at my time, All you had  &lt;!-- raw HTML omitted --&gt; to solve issues were platforms like GitHub,  StackOverflow,  Reddit and &lt;!-- raw HTML omitted --&gt; the thousand forums there is for every piece of software.
+&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;
+You had to ACTUALLY make use of your brain in order to piece answers together from multiple sources and &lt;!-- raw HTML omitted --&gt; form your own understanding of a &lt;em&gt;probable&lt;/em&gt; solution that might as well fail to work,  In which case you either &lt;!-- raw HTML omitted --&gt; went insane or took on another battle to find a fix.
+&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;
+To clarify,  I&amp;rsquo;m not against using AI in a productive manner,  I personally use a couple of AI tools &lt;!-- raw HTML omitted --&gt; daily in order to make my life easier and also avoid doing tedious tasks that technology can &lt;!-- raw HTML omitted --&gt; do tirelessly,  Quickly,  And much effectively then I&amp;rsquo;ll probably be able to do.
+&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;
+What I will complain about however is the unexplainable number of beginner programmers &lt;!-- raw HTML omitted --&gt; that think,  actually not think, BELIEVE that AI will take over this industry sooner or later &lt;!-- raw HTML omitted --&gt; Which is not only wrong but also an absurdly popular belief that makes me question &lt;!-- raw HTML omitted --&gt; whether certain people should&amp;rsquo;ve picked up CS as a major or not.
+&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;
+I help out in multiple communities in my free time,  And countless times I had this &lt;!-- raw HTML omitted --&gt; beginner (maybe first year CS major) ask a question along the lines of &lt;!-- raw HTML omitted --&gt; &amp;ldquo;Will AI take over this industry?&amp;rdquo; or &amp;ldquo;I&amp;rsquo;m scared to learn coding because AI, what do I do?&amp;quot;&lt;!-- raw HTML omitted --&gt; And each damn time I have to explain how AI is only a tool and that it can&amp;rsquo;t &lt;!-- raw HTML omitted --&gt; understand code.
+&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;
+It has gotten tiring over time to explain this to every single person and to &lt;!-- raw HTML omitted --&gt; counter the many repetitive arguments they use,  Not to mention &lt;!-- raw HTML omitted --&gt; that almost all of these arguments are coming either from YouTube or &lt;!-- raw HTML omitted --&gt; some random irrational blog post on the internet that can&amp;rsquo;t be taken &lt;!-- raw HTML omitted --&gt; seriously.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Language hell.</title>
+      <link>http://localhost:1313/posts/language-hell/</link>
+      <pubDate>Mon, 20 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/language-hell/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;ve always wanted to make a programming language,  Even when I didn&amp;rsquo;t know how they worked &lt;!-- raw HTML omitted --&gt; and they felt like absolute magic that just runs my code using the power of the Pleides or something&amp;hellip;
+&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;
+After I learnt about how compilers and interpreters work and the steps they require &lt;!-- raw HTML omitted --&gt; to convert my code into executables or to actually execute it I had to &lt;!-- raw HTML omitted --&gt; also deal with the problem of time, each time I want to start making a programming &lt;!-- raw HTML omitted --&gt;
+language something pops out of nowhere (usually school) and says &lt;!-- raw HTML omitted --&gt;
+&amp;ldquo;fuck you, you aren&amp;rsquo;t doing that shit HAHAHA&amp;rdquo;
+&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;
+Now that my first semester is nearly done and I can finally do my projects in peace &lt;!-- raw HTML omitted --&gt; I&amp;rsquo;m continueing on making a programming language so that I can learn more &lt;!-- raw HTML omitted --&gt; practically about how they work fundementally.  &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Stopping the Lies</title>
+      <link>http://localhost:1313/posts/stopping-the-lies/</link>
+      <pubDate>Sat, 04 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/stopping-the-lies/</guid>
+      <description>&lt;p&gt;IT is such a vast and massive domain, A domain in which resides a lot of fields of knowledge and &lt;!-- raw HTML omitted --&gt; specialties that one can dive into, From Cyber Security to web development and &lt;!-- raw HTML omitted --&gt; my personal favourite; low level development. &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;
+In order to keep yourself updated and a little bit knowledgable in most fields you&amp;rsquo;d have to follow a somewhat &lt;!-- raw HTML omitted --&gt; strict and interesting flow of continous,  lifelong learning, Whether you use YouTube or the documentation &lt;!-- raw HTML omitted --&gt; There&amp;rsquo;s always going to be some external source than you get your information from, Most of these sources are &lt;!-- raw HTML omitted --&gt; not made by passion and instead are commercial sources who&amp;rsquo;s goal in the end is  to get that &lt;!-- raw HTML omitted --&gt; sweet sweet green paper out of your pocket and into their pockets &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;
+I&amp;rsquo;m not exactly against trying to earn by spreading knowledge, it is a widely accepted source of income that all parties benefit from &lt;!-- raw HTML omitted --&gt; Though I am against the practices some of these providers follow in order to achieve their end goal,  Of which I&amp;rsquo;m discussing today is lying. &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;
+Some course providers,  In their infinite wisdom and sacred knowledge Decide to spread lies and misinformation &lt;!-- raw HTML omitted --&gt; in order to make their courses more appealable and interesting,  Most of these lies are just catch phrases &lt;!-- raw HTML omitted --&gt; and fancy slogans to get you to pay for their services, I&amp;rsquo;m gonna go through and bust some. &lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
