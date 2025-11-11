@@ -4,11 +4,11 @@ if status is-interactive
 	alias ll="ls -al"
 	alias rmall="rm -rf ./*"
 	alias get_quote="fortune | cowsay -f tux"
-	export CONFIG="/home/ali/.config/"
+	export CONFIG="$HOME/.config/"
 	abbr nv nvim
 	abbr tm tmux
 	abbr ff fastfetch
-	export NVIM_CONFIG="/home/ali/.config/nvim/"
-	export FISH_CONFIG="/home/ali/.config/fish/"
+	export NVIM_CONFIG="$HOME/.config/nvim/"
+	export FISH_CONFIG="$HOME/.config/fish/"
 	export PATH="$HOME/.local/bin:$PATH"
 end
